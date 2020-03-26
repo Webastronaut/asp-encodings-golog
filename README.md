@@ -1,3 +1,3 @@
 # asp-encodings-golog
 
-ASP encodings developed during the writing of my bachelor thesis
+ASP encodings I developed during the writing of my bachelor thesis
